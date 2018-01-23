@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   //TODO: Add javadoc comment
-  public abstract String greet(final String someone) {
+  public String greet(final String someone) {
       //private String thiskind = "this is me on monday building";
     return String.format("Hello u fucking shitbags, %s!", someone);
   }
